@@ -1,6 +1,6 @@
 # 😊 Sentiment Analysis App
 
-A simple, eye-catching web app that analyzes the sentiment and emotional tone of any text using **VADER Sentiment Analysis**, built with **Streamlit**.
+A simple, web app that analyzes the sentiment and emotional tone of any text using **VADER Sentiment Analysis**, built with **Streamlit**.
 
 ## ✨ Features
 
